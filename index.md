@@ -16,6 +16,9 @@
 
 [Tinker This](https://www.tinkercad.com/things/6kYcSqZOJBe-led-cell/editel)
 
+### LED Control by switch
+[LED Control by switch](https://www.tinkercad.com/things/4jLrnrWh2qQ-led-control-by-switch/editel)
+
 ## Day3
 
 [AND Gate](https://www.tinkercad.com/things/k6QJvGL75Ti-and-gate/editel)
