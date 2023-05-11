@@ -6,7 +6,7 @@
 
 
 ## Day2
-### EXP1 LED
+### EXP1 LED1
 ![lld](https://github.com/Abhijithbas/INTERNSHIP/blob/main/image/led1.png)
 
 ### EXP1 LED2
