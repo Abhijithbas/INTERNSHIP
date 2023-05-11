@@ -14,21 +14,21 @@
 
 ### LED Cell
 
-[Tinker This](https://www.tinkercad.com/things/6kYcSqZOJBe-led-cell/editel)
+[LED Cell Tinker This](https://www.tinkercad.com/things/6kYcSqZOJBe-led-cell/editel)
 
 ### LED Control by switch
-[LED Control by switch](https://www.tinkercad.com/things/4jLrnrWh2qQ-led-control-by-switch/editel)
+[LED Control by switch Tinker This](https://www.tinkercad.com/things/4jLrnrWh2qQ-led-control-by-switch/editel)
 ![iiu](https://github.com/Abhijithbas/INTERNSHIP/blob/main/image/led%20switch.png)
 
 ## Day3
 
-[AND Gate](https://www.tinkercad.com/things/k6QJvGL75Ti-and-gate/editel)
+[AND Gate Tinker This](https://www.tinkercad.com/things/k6QJvGL75Ti-and-gate/editel)
 ![iity](https://github.com/Abhijithbas/INTERNSHIP/blob/main/image/AND%20Gate.png)
-[Arduino LED Blinking](https://www.tinkercad.com/things/2BKAi1mMxOJ-arduino-led-blinking/editel)
+[Arduino LED Blinking Tinker This](https://www.tinkercad.com/things/2BKAi1mMxOJ-arduino-led-blinking/editel)
 ### EXP3 Arduino LED Blinking
 ![iiy](https://github.com/Abhijithbas/INTERNSHIP/blob/main/image/arduino.png)
 ### Arduino LED Blinking2
-[Arduino LED Blinking2](https://www.tinkercad.com/things/25ljQUm0sKW-arduinoled-blinking2/editel)
+[Arduino LED Blinking2 Tinker This](https://www.tinkercad.com/things/25ljQUm0sKW-arduinoled-blinking2/editel)
 ![iiq](https://github.com/Abhijithbas/INTERNSHIP/blob/main/image/arduino2.png)
  
    
