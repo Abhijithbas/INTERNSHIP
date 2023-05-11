@@ -18,6 +18,7 @@
 
 ### LED Control by switch
 [LED Control by switch](https://www.tinkercad.com/things/4jLrnrWh2qQ-led-control-by-switch/editel)
+![iiu](https://github.com/Abhijithbas/INTERNSHIP/blob/main/image/led%20switch.png)
 
 ## Day3
 
