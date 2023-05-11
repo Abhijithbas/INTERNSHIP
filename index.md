@@ -29,5 +29,6 @@
 ![iiy](https://github.com/Abhijithbas/INTERNSHIP/blob/main/image/arduino.png)
 ### Arduino LED Blinking2
 [Arduino LED Blinking2](https://www.tinkercad.com/things/25ljQUm0sKW-arduinoled-blinking2/editel)
+![iiq](https://github.com/Abhijithbas/INTERNSHIP/blob/main/image/arduino%20led%20blink2.png)
  
    
