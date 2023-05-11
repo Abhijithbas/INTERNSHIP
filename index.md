@@ -27,6 +27,7 @@
 [Arduino LED Blinking](https://www.tinkercad.com/things/2BKAi1mMxOJ-arduino-led-blinking/editel)
 ### EXP3 Arduino LED Blinking
 ![iiy](https://github.com/Abhijithbas/INTERNSHIP/blob/main/image/arduino.png)
-
+### Arduino LED Blinking2
+[Arduino LED Blinking2](https://www.tinkercad.com/things/25ljQUm0sKW-arduinoled-blinking2/editel)
  
    
