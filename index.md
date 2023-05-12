@@ -38,6 +38,6 @@
  ## Day4
  
  
-### Blockly
+### Introduction of Blockly
 ![iib](https://github.com/Abhijithbas/INTERNSHIP/blob/main/image/blockly.png)
    
