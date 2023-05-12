@@ -40,4 +40,8 @@
  
 ### Introduction of Blockly
 ![iib](https://github.com/Abhijithbas/INTERNSHIP/blob/main/image/blockly.png)
+
+### Logical Operation Blockly
+
+![iio](https://github.com/Abhijithbas/INTERNSHIP/blob/main/image/blockly%20logic.png)
    
