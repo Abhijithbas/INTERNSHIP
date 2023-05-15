@@ -36,8 +36,7 @@
 ![iiz](https://github.com/Abhijithbas/INTERNSHIP/blob/main/image/arduino3.png)
  
  ## Day4
- 
- 
+  
 ### Introduction of Blockly
 ![iib](https://github.com/Abhijithbas/INTERNSHIP/blob/main/image/blockly.png)
 
