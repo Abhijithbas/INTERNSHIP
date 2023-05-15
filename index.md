@@ -47,6 +47,9 @@
 
 ## Day5
 
+### Arduino 7 Segment
+![iiw](https://github.com/Abhijithbas/INTERNSHIP/blob/main/image/segment.png)
+
 ### Arduino Analog
 [Arduino Analog Tinker This](https://www.tinkercad.com/things/0pffROcPjWf-analog-arduino/editel)
 ![iif](https://github.com/Abhijithbas/INTERNSHIP/blob/main/image/analog.png)
