@@ -44,4 +44,10 @@
 ### Logical Operation Blockly
 
 ![iio](https://github.com/Abhijithbas/INTERNSHIP/blob/main/image/blockly%20logic.png)
+
+## Day5
+
+### Arduino Analog
+![iif](https://github.com/Abhijithbas/INTERNSHIP/blob/main/image/analog.png)
+
    
