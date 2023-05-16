@@ -54,4 +54,8 @@
 [Arduino Analog Tinker This](https://www.tinkercad.com/things/0pffROcPjWf-analog-arduino/editel)
 ![iif](https://github.com/Abhijithbas/INTERNSHIP/blob/main/image/analog.png)
 
-   
+## Day6
+
+### Tinker Cad 3D Design
+
+![iig](https://github.com/Abhijithbas/INTERNSHIP/blob/main/image/3D.png)
