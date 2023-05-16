@@ -57,7 +57,7 @@
 ## Day6
 
 ### Tinker Cad 3D Design
-
+[3D Design Tinker This](https://www.tinkercad.com/things/8tXycqT4QQs-3d-design/edit)
 ![iig](https://github.com/Abhijithbas/INTERNSHIP/blob/main/image/3D.png)
 
 ### 3D Design Car
