@@ -67,6 +67,7 @@
 ## Day7
 
 ### Analog Read
+[Arduino Analog Read Tinker This](https://www.tinkercad.com/things/3aaMe2nEMJ6-arduino-analog-read/editel)
 ![iic](https://github.com/Abhijithbas/INTERNSHIP/blob/main/image/potled.png)
 
 ### Tinker Cad RGB LED
