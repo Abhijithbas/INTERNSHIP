@@ -68,3 +68,6 @@
 
 ### Analog Read
 ![iic](https://github.com/Abhijithbas/INTERNSHIP/blob/main/image/potled.png)
+
+### Tinker Cad RGB LED
+![iie](https://github.com/Abhijithbas/INTERNSHIP/blob/main/image/rgbled.png)
