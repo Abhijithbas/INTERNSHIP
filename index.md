@@ -84,5 +84,6 @@
 ![iir](https://github.com/Abhijithvb555/INTERNSHIP/blob/main/image/pushbutton.png)
 
 ### Traffic Signal
+[Traffic Signal Tinker This](https://www.tinkercad.com/things/0u8nzBoKj6A-traffic-signal/editel)
 
 ![iio](https://github.com/Abhijithvb555/INTERNSHIP/blob/main/image/traffic%20signal.png)
