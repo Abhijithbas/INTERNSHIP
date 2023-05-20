@@ -65,6 +65,9 @@
 ![iie](https://github.com/Abhijithbas/INTERNSHIP/blob/main/image/3D%20Design%20car.png)
 
 ## Day7
+### Introduction of Yaskawa Robot
+
+## Day8
 
 ### Analog Read
 [Arduino Analog Read Tinker This](https://www.tinkercad.com/things/3aaMe2nEMJ6-arduino-analog-read/editel)
