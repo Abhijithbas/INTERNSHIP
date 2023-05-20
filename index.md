@@ -81,3 +81,7 @@
 
 ### Pushbutton LED Blink
 ![iir](https://github.com/Abhijithvb555/INTERNSHIP/blob/main/image/pushbutton.png)
+
+### Traffic Signal
+
+![iio](https://github.com/Abhijithvb555/INTERNSHIP/blob/main/image/traffic%20signal.png)
